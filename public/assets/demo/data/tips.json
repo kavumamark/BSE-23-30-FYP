@@ -1,0 +1,14 @@
+{
+    "data": [
+    {
+      "id": 1,
+      "tip": "Catch this silent thief of sight before you lose vision.",
+      "description": "If you are at risk for glaucoma, you should see your ophthalmologist regularly for eye exams. They can find the disease in its early stages, then watch and treat it.",
+      "representative": {
+        "name": "Glaucoma"
+      
+      }
+    }
+
+    ]
+}
